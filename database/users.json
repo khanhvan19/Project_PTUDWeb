@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6381c0130ddf2b328a282488"
+  },
+  "name": "Nguyễn Khánh Văn",
+  "email": "admin@travelgo.com",
+  "password": "19o72oo1",
+  "type": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669447699333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669520536493"
+    }
+  },
+  "__v": 0,
+  "phone": "0778889900"
+},{
+  "_id": {
+    "$oid": "6382ec5d53ebd3bd9d489f81"
+  },
+  "name": "Khánh Văn",
+  "email": "van@gmail.com",
+  "password": "12345678",
+  "type": "customer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669524573130"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669705044658"
+    }
+  },
+  "__v": 0,
+  "phone": "0777665546"
+},{
+  "_id": {
+    "$oid": "6382f12a9c1eacccf07bb4b3"
+  },
+  "name": "Văn Khánh",
+  "email": "van2@gmail.com",
+  "password": "19o72oo1",
+  "type": "customer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669525802731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669689590514"
+    }
+  },
+  "__v": 0,
+  "phone": "0777777778"
+},{
+  "_id": {
+    "$oid": "6385e2a04035332188f3e815"
+  },
+  "name": "Nguyễn Văn A",
+  "email": "van3@gmail.com",
+  "password": "12345678",
+  "type": "customer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669718688015"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718688015"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385e2f74035332188f3e81f"
+  },
+  "name": "Phạm Thị B",
+  "email": "van4@gmail.com",
+  "password": "12345678",
+  "type": "customer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669718775673"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669719255807"
+    }
+  },
+  "__v": 0,
+  "phone": "0111111112"
+},{
+  "_id": {
+    "$oid": "6385e3794035332188f3e82c"
+  },
+  "name": "Lê Trần Nguyễn Nguyen",
+  "email": "van1@gmail.com",
+  "password": "12345678",
+  "type": "customer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669718905010"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669751166775"
+    }
+  },
+  "__v": 0,
+  "phone": "0777777778"
+}]

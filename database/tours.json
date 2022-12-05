@@ -1,0 +1,461 @@
+[{
+  "_id": {
+    "$oid": "63819b962100b71c7d615fec"
+  },
+  "name": "Sapa - Bản Cát Cát - Fansipan - Ninh Bình - Tràng An - Bái Đính - Tuyệt Tịnh Cốc - Hạ Long - Đảo Titốp - Yên Tử",
+  "avt": "sapa.jpg",
+  "price": 10990000,
+  "tourists": 22,
+  "day": 6,
+  "night": 5,
+  "start": "2022-12-19",
+  "description": "Lào Cai là tỉnh vùng cao phía Bắc Việt Nam. Lào Cai có những điểm văn hóa, phong cảnh lãng mạn, những điểm check-in nổi tiếng của giới trẻ như thung lũng Mường Hoa, đỉnh Phanxipang, núi Hàm Rồng, các bản văn hóa dân tộc như Cát Cát, Tả Van, Lào Chải, Tả Phìn và những con đường mòn ôm sát cánh đồng lúa, … Ngoài ra, Lào Cai còn là điểm đến hấp dẫn của du khách bởi nét văn hóa ẩm thực đặc sắc của nhiều dân tộc anh em vùng cao. Ninh Bình vùng đất “Nơi mơ đến, chốn mong về” ghi dấu ấn với Quần thể danh thắng Tràng An -Di sản văn hóa thiên nhiên thế giới, đi thuyền chèo tham quan hệ thống thạch nhũ trong hang động và di tích Đền Trần; uy nghiêm trầm mặc với quần thể chùa Bái Đính, ẩn mình thanh tịnh sau hang động với Tuyệt tịnh cốc,.. Đặt chân đến Quảng Ninh – tỉnh đầu tiên có 4 thành phố: Hạ Long, Móng Cái, Uông Bí và Cẩm Phả tạo nên thành phố du lịch không chỉ nổi tiếng về biển như Vịnh Hạ Long với hàng nghìn đảo đá nhấp nhô trên sóng nước lung linh huyền ảo, những hang động tuyệt đẹp, những bãi tắm hoang sơ, làn nước mát lạnh trong veo đặc trưng của vùng đảo Cô Tô, Soi Sim, ... Không những thế, Quảng Ninh còn hấp dẫn du khách về không khí mát mẻ của vùng núi thiêng Yên Tử nơi hội tụ tâm linh, văn hóa và không gian nghỉ dưỡng đỉnh cao. Nếu bạn yêu sự hoang sơ của thiên nhiên, không gian thoáng mát thì hãy thử một lần ghé thăm cao nguyên Bình Liêu, được ví von như “Sapa vùng đất than”, với các cột mốc biên giới và dãy “cờ cỏ lau” hay con đường “Sống lưng khủng long” chạy dọc đường tuần biên luôn là điểm dừng yêu thích của du khách trong và ngoài tỉnh.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669438358823"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718193152"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6381fbfa4e20980e892a727f"
+  },
+  "name": "Cần Thơ - Sóc Trăng - Bạc Liêu - Cà Mau - Đất Mũi",
+  "avt": "cantho.jpg",
+  "price": 4190000,
+  "tourists": 50,
+  "day": 4,
+  "night": 3,
+  "start": "2023-04-09",
+  "description": "Tour sẽ mang đến cho du khách một hành trình trải nghiệm văn hoá đầy thú vị khi đi qua nhiều vùng văn hoá khác nhau ở vùng đất chín rồng. Ngoài việc được check in cùng các điểm đến khắp miền Tây, du khách còn được thưởng thức những món đặc sản mang đậm hương vị địa phương vô cùng thơm ngon và hấp dẫn. Đặc biệt, du khách sẽ được tìm hiểu về đời sống của người dân miền sông nước khi đến với Chợ nổi Cái Răng. Trải nghiệm bữa sáng độc đáo ngay tại chợ nổi. Trở về làng quê Nam Bộ yên bình và thưởng thức trái cây cùng nhiều loại bánh dân gian thơm ngon khi đến với Cồn Sơn. Tham quan vùng đất của những ngôi chùa khmer tại Sóc Trăng và thưởng thức món bún nước lèo nổi tiếng thơm ngon. Ghé thăm vùng đất “cơ cầu”- quê hương của vị Hắc Công Tử và check in cùng cánh đồng điện gió Bạc Liêu tuyệt đẹp. Check in cùng điểm cuối cùng trên bản đồ Việt Nam và tham quan hệ sinh thái rừng ngập mặn vô cùng ấn tượng tại vùng Đất Mũi Cà Mau.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669463034482"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718173362"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6381ff3c4e20980e892a7284"
+  },
+  "name": "Phú Yên - Quy Nhơn - Eo Gió - FLC Zoo Safari Park",
+  "avt": "phuyen.jpg",
+  "price": 6490000,
+  "tourists": 33,
+  "day": 4,
+  "night": 3,
+  "start": "2022-12-26",
+  "description": "Du khách sẽ được khám phá tháp Nghinh Phong: một thiết kế đặc biệt ấn tượng lấy cảm hứng từ ghềnh đá đĩa mang tính biểu tượng của Phú Yên và truyền thuyết “Trăm trứng trăm con” của Lạc Long quân và Âu Cơ. Khu du lịch Sông Ba Farmstay bắt mắt bởi vườn rau sạch công nghệ cao tọa lạc ngay bên bờ sông ba được bao quanh bởi làng rau Ngọc Lãng bình yên và gần gũi. Quý khách được dịp ngắm hoàng hôn buông dần trên dòng sông hiền hòa và thưởng thức bữa tối với các loại rau organic tươi ngon.  Gành Đá Dĩa - thắng cảnh độc nhất vô nhị của tỉnh Phú Yên và của Quốc Gia. Đến đây, Quý khách còn được tham quan Bảo tàng đá cổ với bộ sưu tầm đá và các bộ cồng chiêng của đồng bào còn lưu giữ nguyên vẹn. Ngoài ra còn nhiều địa điểm nổi tiếng như Nhà Thờ Mằng Lăng, Tháp Đôi Quy Nhơn, Khu du lịch Ghềnh Ráng Tiên Sa, viếng Mộ Hàn Mặc Tử, Eo Gió... Cuối cùng là FLC Zoo Safari Park, Quý khách như lạc vào khu rừng của cỏ cây hoa lá và muôn loài động vật sinh sống. Công viên được thiết kế một cách tỉ mỉ, khéo léo mang đến một không gian hoà hợp thiên nhiên. Quý khách sẽ được chiêm ngưỡng và gần gũi hơn cũng như được trải nghiệm môi trường sống của các loài động vật hoang dã tự nhiên.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669463868801"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718159340"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63859ab0776a7bceb80ffc17"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669700272830"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718148392"
+    }
+  },
+  "__v": 0,
+  "day": 5,
+  "description": "Nha Trang, thành phố biển với cát trắng, quanh năm sóng vỗ rì rào, được ví như Địa Trung Hải của Việt Nam. Đến Nha Trang, du khách không chỉ được tận hưởng những ngày nghỉ biển tuyệt vời bên bờ biển trải dài, bầu trời xanh ngắt… mà du khách còn được trải nghiệm những dịch vụ vui chơi giải trí đẳng cấp hàng đầu Việt Nam.",
+  "name": "Nha Trang - Tháp Bà Ponagar",
+  "night": 4,
+  "price": 7390000,
+  "start": "2022-12-12",
+  "tourists": 20,
+  "avt": "nhatrang.jpg"
+},{
+  "_id": {
+    "$oid": "63859d24776a7bceb80ffc23"
+  },
+  "name": "Quảng Bình - Động Thiên Đường - Biển Nhật Lệ - Đồi Cát Quang Phú",
+  "avt": "quanbinh.jpg",
+  "price": 4890000,
+  "tourists": 35,
+  "day": 4,
+  "night": 3,
+  "start": "2022-12-16",
+  "description": "Quảng Bình – một điểm đến lý tưởng để du khách khám phá các thắng cảnh thiên nhiên tuyệt đẹp, thử thách với các hoạt động giải trí thú vị có một không hai, là vùng quê của gió Lào, của cát trắng, của những con người mộc mạc, chân chất. Nhắc đến Quảng Bình là nhắc đến Phong Nha – Kẻ Bàng, biển Nhật Lệ trong xanh, một miền quê Lệ Thủy yên bình trong chiều tà, là cơ hội để khám phá vùng đất mới, con người mới, trải nghiệm mới và thưởng thức ẩm thực đỉnh cao của xứ Quảng.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669700900131"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718126209"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385acc446616a41d566b412"
+  },
+  "name": "Huế - Đà Nẵng - Hội An",
+  "avt": "danang.png",
+  "price": 7990000,
+  "tourists": 25,
+  "day": 5,
+  "night": 4,
+  "start": "2022-12-09",
+  "description": "chua viet",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669704900563"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718116616"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d0964035332188f3e765"
+  },
+  "name": "Đà Nẵng - Bà Nà Hill - Phố Cổ Hội An",
+  "avt": "hoian.png",
+  "price": 5490000,
+  "tourists": 30,
+  "day": 4,
+  "night": 3,
+  "start": "2023-02-02",
+  "description": "Đà Nẵng, thành phố của những cây cầu nối đôi bờ Sông Hàn, thành phố đáng sống bậc nhất Việt Nam. Cầu Rồng, Cầu Quay Sông Hàn, Cầu Trần Thị Lý, Cầu Thuận Phước vẫn ngày ngày mang sứ mệnh nối 1 bên là trung tâm hành chính quan trọng và 1 bên là khu du lịch biển nổi tiếng khắp trong và ngoài nước. Bà Nà như một nàng công chúa ngủ trong rừng từ ngàn xưa và bỗng bừng tỉnh mang lại 1 diện mạo đặc sắc và hấp dẫn cho Đà Nẵng. Phố Cổ Hội An với Chùa Cầu, Hội Quán…vẫn ngày đêm soi mình xuống dòng sông Hoài lịch sử.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669714070173"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718082080"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d3c34035332188f3e789"
+  },
+  "name": "Khám Phá Đảo Ngọc Phú Quốc",
+  "avt": "phuquoc.jpg",
+  "price": 5790000,
+  "tourists": 20,
+  "day": 4,
+  "night": 3,
+  "start": "2022-12-25",
+  "description": "Đảo Ngọc Phú Quốc của Việt Nam hút khách du lịch nhờ những bãi biển đẹp mà thưa vắng, thiên nhiên nguyên sơ và thiên đường hải sản. Nơi đây không chỉ thu hút du khách bởi bờ biển dài trong veo, những khu resort sang trọng luôn những món ngon chẳng nơi nào có...Đồng hành cùng GoldenTour trong hành trình khám phá đảo ngọc Phú Quốc.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669714883449"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718067349"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d45e4035332188f3e78c"
+  },
+  "name": "Khám Phá Vùng Đất Nghỉ Dưỡng Kyushu - Nhật Bản",
+  "avt": "nhatban.jpg",
+  "price": 29900000,
+  "tourists": 20,
+  "day": 6,
+  "night": 5,
+  "start": "2023-01-01",
+  "description": "Nhật Bản được biết đến là một đất nước tươi đẹp, với nhiều văn hóa lễ hội truyền thống. Những bản sắc văn hóa tươi đẹp đã giúp Nhật Bản lọt vào trong những nước đáng đến du lịch trên thế giới. Du lịch Nhật Bản đầy sức hấp dẫn vì đất nước này có 14 di sản thế giới, bao gồm thành Himeji, cố đô Kyoto, các thành phố Tokyo và Nara, núi Phú Sĩ, những khu trượt tuyết như Niseko ở Hokkaido, Okinawa. Bên cạnh đó, nền văn hóa và lễ hội mang đậm bản sắc dân tộc cũng làm nên sức hút của du lịch Nhật Bản.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715038875"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718048076"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d5054035332188f3e78f"
+  },
+  "name": "Viêng Chăn - Cố Đô Luang Prabang - Xiêng Khoảng (Lào)",
+  "avt": "lao.jpg",
+  "price": 9890000,
+  "tourists": 25,
+  "day": 6,
+  "night": 5,
+  "start": "2023-03-12",
+  "description": "Được mệnh danh là Miền đất Triệu Voi - Lào nằm ở nơi giao hội của hai nền văn minh vĩ đại và hùng mạnh nhất châu Á là Ấn Độ và Trung Hoa, người dân Lào đã hấp thụ những phong tục và tín ngưỡng của hai nền văn minh ấy để hình thành nên một nền văn hóa đặc sắc của riêng mình hết sức độc đáo. Nền văn hóa Lào là nền văn hóa Phật giáo. Đạo Phật đã ăn sâu vào tư tưởng của người Lào, ảnh hưởng này được phản ánh trong ngôn ngữ và nghệ thuật, tạo nên một dân tộc Lào rất riêng.\n\nCố đô Luang Prabang Di sản thế giới với nét kiến trúc, tôn giáo và văn hóa độc đáo và những điểm du lịch hấp dẫn như: Thác Kuangsy, Chùa Xiengthong, núi Phousy, bảo tàng Cung điện Hoàng gia.... Du khách cũng có thể tham gia Lễ khất thực vào sáng sớm hay du thuyền trên dòng sông Mekong hiền hòa...",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715205337"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718035298"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d5854035332188f3e792"
+  },
+  "name": "Dubai: Khám Phá Các Tiểu Vương Quốc Ả Rập Huyền Bí",
+  "avt": "dubai.jpg",
+  "price": 29900000,
+  "tourists": 10,
+  "day": 6,
+  "night": 5,
+  "start": "2023-01-08",
+  "description": "Dubai không chỉ là thành phố du lịch, thương mại nổi tiếng thế giới mà còn là thành phố có kiến trúc đẹp được thể hiện qua sự kết hợp nhuần nhuyễn giữa kiến trúc phương Đông và phương Tây cũng như sự kết hợp hài hoà giữa quá khứ và hiện tại. Không thành phố nào phát triển nhanh chóng, và có nhiều hòn đảo nhân tạo lớn với hơn một trăm km đường dọc bờ biển như Dubai  \n\nTiểu vương quốc Ả Rập thống nhất vừa là trung tâm thương mại quốc tế nhộn nhịp sầm uất vừa là nơi những du khách có thể đắm mình vào một thế giới kỳ diệu. Dubai xứng đáng với câu nói là ‘Thánh địa của thế giới’ vật chất với các kỷ lục guiness như nhà cao tầng nhất thế giới, Khu trượt tuyết trong nhà lớn nhất thế giới, khách sạn sang trọng bậc nhất thế giới và là thiên đường mua sắm bậc nhất trên thế giới.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715333515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718014324"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d5f04035332188f3e795"
+  },
+  "name": "Đài Loan: Đài Bắc - Đài Trung - Cao Hùng",
+  "avt": "daibac.jpg",
+  "price": 12490000,
+  "tourists": 26,
+  "day": 5,
+  "night": 4,
+  "start": "2022-12-12",
+  "description": "Du lịch Đài Loan - Khám phá đảo ngọc xinh đẹp nơi hòa quyện tuyệt vời giữa vẻ đẹp thiên thiên và các giá trị văn hóa truyền thống. Đến với tour du lịch Đài Loan du khách sẽ được khám phá đất nước và con người Đài Loan qua các thành phố lớn như: Cao Hùng, Đài Bắc, Đài Trung, Nam Đầu…\n\nTrong những năm gần đây những điểm đến của du lịch Đài Loan luôn là sự lựa chọn hàng đầu bởi sự đa dạng các danh lam thắng cảnh, từ những phố xá sầm uất, tấp nập đến những ngôi làng quê yên bình đều có những vẻ đẹp riêng níu chân người lữ hành.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715440679"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669718004462"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d6984035332188f3e79c"
+  },
+  "name": "Nhật Bản: Cung Đường Tuyết Làng Cổ Shirakawa",
+  "avt": "shiralankawa.jpg",
+  "price": 25900000,
+  "tourists": 24,
+  "day": 5,
+  "night": 4,
+  "start": "2023-01-03",
+  "description": "Nhật Bản được biết đến là một đất nước tươi đẹp, với nhiều văn hóa lễ hội truyền thống. Những bản sắc văn hóa tươi đẹp đã giúp Nhật Bản lọt vào trong những nước đáng đến du lịch trên thế giới. Du lịch Nhật Bản đầy sức hấp dẫn với 14 di sản thế giới, bao gồm thành Himeji, cố đô Kyoto, các thành phố Tokyo và Nara, núi Phú Sĩ, những khu trượt tuyết như Niseko ở Hokkaido, Nagano. Bên cạnh đó, nền văn hóa và lễ hội mang đậm bản sắc dân tộc cũng làm nên sức hút của du lịch Nhật Bản. Hành trình Cung đường TUYẾT Làng cổ với lịch bay cực đẹp tới những thành phố và cố đô cổ đẹp nhất chắc chắn sẽ đưa Quý khách đến một Nhật Bản trọn vẹn và ấn tượng",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715608283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717987833"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d7224035332188f3e79f"
+  },
+  "name": "NhậtBản - Lãng Mạn Cung đường Vàng Mùa Lá Đỏ",
+  "avt": "nhatbanlado.jpg",
+  "price": 34680000,
+  "tourists": 19,
+  "day": 6,
+  "night": 5,
+  "start": "2023-01-11",
+  "description": "Nhật Bản được biết đến là một đất nước tươi đẹp, với nhiều văn hóa lễ hội truyền thống . Những bản sắc văn hóa tươi đẹp đã giúp Nhật Bản lọt vào trong những nước đáng đến du lịch trên thế giới. Du lịch Nhật Bản đầy sức hấp dẫn vì đất nước này có 14 di sản thế giới, bao gồm thành Himeji, cố đô Kyoto, các thành phố Tokyo và Nara, núi Phú Sĩ, những khu trượt tuyết như Niseko ở Hokkaido, Okinawa. Bên cạnh đó, nền văn hóa và lễ hội mang đậm bản sắc dân tộc cũng làm nên sức hút của du lịch Nhật Bản",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715746060"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717974720"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d7d14035332188f3e7a2"
+  },
+  "name": "Maroc 12 ngày - Viên Ngọc Xanh của Lục Địa Đen",
+  "avt": "maroc.jpg",
+  "price": 82000000,
+  "tourists": 10,
+  "day": 12,
+  "night": 11,
+  "start": "2023-01-14",
+  "description": "Casablanca: thành phố lớn nhất của Maroc, cũng là thành phố cảng lớn nhất Bắc Phi. Tại đây có nhiều cửa hàng cao cấp, các khu trưng bày nghệ thuật đương đại, những tòa nhà Pháp cổ, nhiều khu chợ náo nhiệt và khu phố cổ truyền thống. Rabat : là thủ đô và cũng là điểm đến du lịch hàng đầu của Morocco. Đến với thành phố này bạn sẽ được trải nghiệm những khu phố cổ hay thưởng thức cafe tại những đại lộ hiện đại, hay đơn giản là cảm giác yên bình tại bãi biển Morocco. Marakech: là thành phố trung tâm văn hóa nổi tiếng với những tòa nhà màu đỏ đặc trưng và những khu chợ đông đúc nhộn nhịp. Ouarzazate : một vùng đất đẹp như mơ nằm ngay cửa ngõ sa mạc. Được coi là thủ phủ của miền Nam Maroc. Nơi đây có biệt danh là \"Hollywood của châu Phi\", bởi nơi đây đã thu hút không biết bao nhiêu máy quay của ngành công nghiệp điện ảnh Mỹ. Merzouga : mảnh đất gây thương nhớ bởi những triền cát trùng điệp nối tiếp nhau. Trải nghiệm cưỡi lạc đà và ngủ lều giữa sa mạc Sahara. Fes : thành phố cổ nhất và ấn tượng nhất được UNESCO công nhận là di sản văn hóa thế giới, phản ánh rõ ràng nhất lối sống, văn hóa, phong tục tập quán đa sắc màu của người dân địa phương. Chefchouen : thành phố hiện lên giữa thiên nhiên tựa viên ngọc xanh tuyệt đẹp và được du khách check-in nhiều nhất khi đến Maroc.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669715921599"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717959521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d85a4035332188f3e7a5"
+  },
+  "name": "Nam Phi 8 ngày - Khám Phá Vùng Đất Kim Cương",
+  "avt": "namphi.jpg",
+  "price": 64900000,
+  "tourists": 16,
+  "day": 8,
+  "night": 7,
+  "start": "2023-03-11",
+  "description": "Nhắc đến Nam Phi, nhiều người thường nghĩ ngay đến hình ảnh của những vùng sa mạc khô cằn, bầy thú hoang dã... Tuy nhiên, Nam Phi là xứ sở có khí hậu ôn hòa, mùa hè không quá nóng và mùa đông không quá lạnh. Đặc biệt, mùa xuân bắt đầu từ tháng 9 đến tháng 12 với tiết trời mát mẻ dễ chịu và tuyệt vời biết bao khi dạo bước trên những con đường tràn ngập phượng tím Jacaranda để tận hưởng hết vẻ đẹp quyến rũ của mùa xuân Nam Phi. Vào mùa xuân cũng là thời điểm tốt nhất để bạn ngắm cá voi ở cự li gần và mùa Lễ hội vui nhộn tại Nam Phi.\n\nCòn chần chờ gì nữa, cơ hội săn cá voi và thưởng ngoạn Nam phi mùa  Phượng Tím đang chờ bạn tháng 9-10-11 này đấy !",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669716058580"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717946231"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385d9564035332188f3e7a8"
+  },
+  "name": "Indonesia: Bali - Ubud - biển Jimbaran - đền TirtaEmpul",
+  "avt": "bali.jpg",
+  "price": 12490000,
+  "tourists": 20,
+  "day": 5,
+  "night": 4,
+  "start": "2022-12-14",
+  "description": "Được mệnh danh là hòn đảo thiên đường, Bali có một sức hấp dẫn không thể chối từ của một hòn đảo với bờ biển dài cát trắng, nắng vàng, nước xanh như lụa; của một nền văn hóa đặc sắc với những ngôi đền nước thiêng, những ngôi đền cổ nằm chênh vênh trên mỏm núi hay nhô ra đón sóng biển, là những thửa ruộng bậc thang ngút ngàn, là những ngọn núi lửa cao chót vót trên 3.000 mét, những dòng sông cuộn chảy, những khe núi sâu hun hút, những mặt hồ nguyên sơ trên miệng các dãy núi lửa và những cánh rừng nhiệt đới đầy ắp cuộc sống hoang dã. Sáng thức giấc ở Ubud với khung cảnh núi rừng, không khí trong lành, đúng nghĩa hoà mình vào thiên nhiên. Đẹp như một giấc mơ ! Bên cạnh cái dịu dàng, say đắm vốn có, Bali còn có những góc màu rực rỡ, nhộn nhịp với hơi thở hiện đại đang mở rộng cửa hân hoan đón chào Quý khách khám phá và cùng YÊU LẠI TỪ ĐẦU.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669716310266"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717932114"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385db1d4035332188f3e7af"
+  },
+  "name": "Phan Thiết - Núi TaKou - Hòn Rơm - Đồi Cát Vàng",
+  "avt": "phanthiet.jpg",
+  "price": 4490000,
+  "tourists": 25,
+  "day": 3,
+  "night": 2,
+  "start": "2023-01-12",
+  "description": "Du lịch Tết Quý Mão Tour Du lịch Phan Thiết - Mũi Né - Đồi Cát Vàng Bay từ Sài Gòn 2023 - Tour Du lịch Phan Thiết - Mũi Né - Đồi Cát Vàng Bay từ Sài Gòn. Du lịch Phan thiết được biết đến với hình ảnh những bãi biển trong xanh, những đồi cát bay trải dài, những hòn đảo lớn nhỏ. Một chuyến du lịch Phan Thiết ắt hẳn sẽ làm du khách tour Phan Thiết thích thú. Tìm đến một chốn thư giãn, quên đi những mệt mỏi muộn phiền trong cuộc sống, Phan Thiết chính là điểm đến giúp chúng ta có những được điều đó.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669716765207"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717892823"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385db9d4035332188f3e7b2"
+  },
+  "name": "Tây Nguyên - Pleiku - Buôn Mê Thuột mùa Hoa Cafe",
+  "avt": "taynguyen.jpg",
+  "price": 5090000,
+  "tourists": 22,
+  "day": 4,
+  "night": 3,
+  "start": "2023-01-13",
+  "description": "Du lịch Tây Nguyên - Pleiku - Buôn Mê Thuột mùa Hoa Cafe từ Hà Nội 2023. Xuân về, mảnh đất Cao Nguyên như khoác lên mình một tấm áo choàng mới, với bạt ngàn màu trắng tinh khiết của loài cây đặc sản của vùng đất đỏ Bazan – Cafe. Khắp các thung lũng, sườn đồi, nương rẫy Cafe ngút ngàn tầm mắt, những bông hoa trắng, nhỏ tinh khiết nổi bật lên giữa màu đỏ của đất, màu xanh của lá...hút hồn tất cả du khách. Buôn Mê Thuột – Thành phố lớn bậc nhất Tây Nguyên, thủ phủ của hồ tiêu, Cafe. Pleiku nơi có Biển Hồ Tơ Nưng, vết tích còn sót lại của ngọn núi lửa hàng triệu năm tuổi, ngày nay thành 1 hồ nước trong xanh, soi bóng thông reo vi vút. Giữa đại ngàn Cao Nguyên hùng vĩ ấy, du khách nghe vang vọng đâu đây tiếng Cồng Chiêng của người Bana – Ede – Gia Rai – M’Nong từ đâu đây vọng lại, ngồi nghe kể lại chuyện xưa của Vua Amacong săn voi rừng, về lễ hội đâm trâu, về nhà mồ …… Chúng tôi xin trân trọng gửi đến quý khách một hành KHÁM PHÁ ĐẠI NGÀN TÂY NGUYÊN HÙNG VĨ với trình đầy thú vị với: Buôn Mê Thuột: Thủ phủ của Café Việt Nam với Buôn Đôn, Buôn Jun, Hồ Lak, Làng Café Trung Nguyên, Thác Dray Nur. Pleiku: Nơi những mái nhà Rông – nhà Dài vẫn ngày ngày vang vọng tiếng Già Làng đang kể chuyện xưa cho lớp cháu con. Thăm Biển Hồ T’Nưng, Làng Văn hóa Plei Ốp, Chùa Minh Thành, Biển Hồ Đảo Chè, Rặng thông cổ thụ.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669716893754"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717865360"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385dc094035332188f3e7b5"
+  },
+  "name": "Hà Nội - Đảo Cát Bà - Vịnh Lan Hạ",
+  "avt": "halogng.jpg",
+  "price": 3290000,
+  "tourists": 27,
+  "day": 3,
+  "night": 2,
+  "start": "2023-01-01",
+  "description": "Du lịch Hà Nội - Đảo Cát Bà - Vịnh Lan Hạ dịp Lễ 30/4 từ Hà Nội. Quần đảo Cát Bà là quần thể gồm 367 đảo trong đó có đảo Cát Bà ở phía Nam vịnh Hạ Long, ngoài khơi thành phố Hải Phòng và tỉnh Quảng Ninh, cách trung tâm thành phố Hải Phòng khoảng 30 km, cách thành phố Hạ Long khoảng 25 km. Về mặt hành chính, quần đảo thuộc huyện đảo Cát Hải, thành phố Hải Phòng. Nơi đây đã được UNESCO công nhận là khu dự trữ sinh quyển thế giới.\n",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669717001420"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669717628988"
+    }
+  },
+  "__v": 0
+}]
